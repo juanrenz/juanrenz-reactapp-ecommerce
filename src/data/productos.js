@@ -1,19 +1,25 @@
 export const items = [
     {
-        name: "remera",
+        id: 1,
+        name: "Super Mario 64",
         price: 1000,
         imgUrl:
-            "https://www.remerasya.com/pub/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/r/e/remera_azul_lisa_2.jpg",
+            "https://applauss.com/wp-content/uploads/2016/06/Nintendo-64-cartucho.jpg",
+        info: 'Para Nintendo 64',
     },
     {
-        name: "jean",
+        id: 2,
+        name: "Sonic the Hedgedog",
         price: 3000,
-        imgUrl: "https://www.kikamayorista.com.ar/29214-large_default/k11120.jpg",
+        imgUrl: "http://www.legadodelpixel.es/wp-content/uploads/2016/11/001cartPAL-1.jpg",
+        info: 'Para Sega Genesis',
     },
     {
-        name: "zapatillas",
+        id: 3,
+        name: "Street Fighter II Turbo",
         price: 6000,
         imgUrl:
-            "https://assets.adidas.com/images/w_600,f_auto,q_auto/7e03ecef81a64126bcecab58011051d8_9366/Zapatillas_Superstar_Bold_Mujer_Blanco_FV3336_01_standard.jpg",
+            "https://m.media-amazon.com/images/I/61CSCw4AfSL._AC_SX679_.jpg",
+        info: 'Para SNES',
     },
 ];
